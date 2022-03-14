@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="./mshoai.svg" alt="Data Analysis" width="500">
+<img src="./mshoai.svg" alt="Data Analysis" width="400">
 </p>
 
 
