@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**MaryamShoai/MaryamShoai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Maryam Shoai, research associate at [Neurodegenerative Diseases](https://iris.ucl.ac.uk/iris/browse/profile?upi=MSHOA86) UCL Queen Square Institute of Neurology. My research interests are:
 
-Here are some ideas to get you started:
+- Genetics
+- Bioinformatics
+- Statistics
+-Neurodegeneration
+- Spectroscopy and Microscopy Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+
+- [Email](to:m.shoai@ucl.ac.uk)
+- [My Lab Weblog](https://hardy-lab-statistical-genetics.github.io/)
+- [My Homepage](https://iris.ucl.ac.uk/iris/browse/profile?upi=MSHOA86)
+- [Google Schoolar](https://scholar.google.co.uk/citations?user=T2LfphYAAAAJ&hl=en)
