@@ -6,13 +6,13 @@
 </p>
 
 
-I am Maryam Shoai, research associate at [Neurodegenerative Diseases](https://iris.ucl.ac.uk/iris/browse/profile?upi=MSHOA86) UCL Queen Square Institute of Neurology. My research interests are:
+I am Maryam Shoai, research fellow at [Neurodegenerative Diseases](https://iris.ucl.ac.uk/iris/browse/profile?upi=MSHOA86) UCL Queen Square Institute of Neurology. My research interests are:
 
-- Genetics
+- Genetics of neurodegeneration
 - Bioinformatics
-- Statistics
+- Statistical Genetics and methodologies
 - Neurodegenerative diseases
-- Spectroscopy and Microscopy Statistics
+- Spectroscopy and Microscopy
 
 ### Contact
 
