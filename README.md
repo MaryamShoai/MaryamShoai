@@ -11,7 +11,7 @@ I am Maryam Shoai, research associate at [Neurodegenerative Diseases](https://ir
 - Genetics
 - Bioinformatics
 - Statistics
--Neurodegeneration
+- Neurodegenerative diseases
 - Spectroscopy and Microscopy Statistics
 
 ### Contact
