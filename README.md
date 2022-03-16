@@ -3,12 +3,15 @@
 
 <p align="Centre">
 <img src="./headerimage.jpg" alt="Data Analysis" width="900" height="300>                                                   
-</p> </n>                                                            
+                                                                     </p> </br>                                                        
                                                                      
                                                                   
 </p>
 <p align="Justify">
-I am a research fellow at [Department of Neurodegenerative Diseases at Queen Square Institute of Neurology](https://iris.ucl.ac.uk/iris/browse/profile?upi=MSHOA86) UCL Queen Square Institute of Neurology. My research interests are:
+                  </br>
+I am a research fellow at Department of Neurodegenerative Diseases at Queen Square Institute of Neurology 
+https://iris.ucl.ac.uk/iris/browse/profile?upi=MSHOA86.  
+My research interests are:
 
 - Genetics of neurodegeneration
 - Bioinformatics
