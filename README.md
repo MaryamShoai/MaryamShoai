@@ -1,12 +1,14 @@
 ### Hi 👋
 
 
-<p align="center">
-<img src="./image01.jpg" alt="Data Analysis" width="400">
+<p align="Centre">
+<img src="./headerimage.jpg" alt="Data Analysis" width="900" height="300>                                                   
+</p> </n>                                                            
+                                                                     
+                                                                  
 </p>
-
-
-I am a research fellow at [Neurodegenerative Diseases](https://iris.ucl.ac.uk/iris/browse/profile?upi=MSHOA86) UCL Queen Square Institute of Neurology. My research interests are:
+<p align="Justify">
+I am a research fellow at [Department of Neurodegenerative Diseases at Queen Square Institute of Neurology](https://iris.ucl.ac.uk/iris/browse/profile?upi=MSHOA86) UCL Queen Square Institute of Neurology. My research interests are:
 
 - Genetics of neurodegeneration
 - Bioinformatics
