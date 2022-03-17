@@ -2,7 +2,7 @@
 
 
 <p align="Centre">
-<img src="./headerimage.jpg" alt="Data Analysis" width="900" height="300>                                                   
+<img src="./peakpx.jpg" alt="Data Analysis" width="900" height="300>                                                   
                                                                      </p> </br>                                                        
                                                                      
                                                                   
