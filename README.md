@@ -4,10 +4,12 @@
 <p align="Center">
 <img src="./peakpx.jpg" alt="Data Analysis" width="900" height="300>                                                   
 </p>
-                                                                
+
+                                                                <p>
 I am a research fellow at [Department of Neurodegenerative Diseases at Queen Square Institute of Neurology](https://iris.ucl.ac.uk/iris/browse/profile?upi=MSHOA86)  
 My research interests are:
-
+</p>
+                                                                
 - Genetics of neurodegeneration
 - Bioinformatics
 - Statistical Genetics and methodologies
