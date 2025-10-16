@@ -1,4 +1,3 @@
-### Hi 👋
 
 <p align="center">
 <img src="./peakpx.jpg" alt="Data Analysis" width="900">
