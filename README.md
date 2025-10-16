@@ -16,6 +16,6 @@ My research interests are:
 LINKS:
 - [Selected Publications Codes](https://github.com/MaryamShoai/Codes)
 - [Lab Blog](https://hardy-lab-statistical-genetics.github.io/)
-- [Homepage](https://iris.ucl.ac.uk/iris/browse/profile?upi=MSHOA86)
+- [UCL profile](https://iris.ucl.ac.uk/iris/browse/profile?upi=MSHOA86)
 - [Google Schoolar](https://scholar.google.co.uk/citations?user=T2LfphYAAAAJ&hl=en)
 - [Researchgate](https://www.researchgate.net/profile/Maryam-Shoai)
